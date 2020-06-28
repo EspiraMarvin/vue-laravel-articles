@@ -1,4 +1,4 @@
-# Larticles API that uses the API resources. This is an API for an article CRUD app
+# Vue-Laravel articles API that uses the API resources. An article CRUD app
 
 > Laravel 6 API that uses the API resources. This is an API for an article CRUD app
 
